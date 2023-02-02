@@ -1,9 +1,9 @@
-# Hi!
+# Hi :wave:
 
 [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/keirk/)
 
 ## About
-My background is in creating full-stack applications in Python, and creating Client-Server applications in C. I'm currently working on a mobile application using React-Native.
+My background is in creating full-stack applications in Python, and creating client-server applications in C. I'm currently working on a mobile app using react native, firebase, and solidity.
 
 | | | | |
 |:--:|:--:|:--:|:--:|
