@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/keirk/)
 
 ## About
-I have experience creating full-stack applications in Python, and creating client-server applications in C. I'm currently working on a mobile app using react native, firebase, and solidity.
+Hey, welcome to my page! I have experience creating full-stack applications and love bringing ideas to life with the help of CS.
 
 | | | | |
 |:--:|:--:|:--:|:--:|
